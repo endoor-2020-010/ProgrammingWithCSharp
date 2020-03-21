@@ -15,10 +15,9 @@ namespace MiniBioApp
             string geboorteplaats = "Turkije";
             string vorigBeroep = "wiskundige";
             string woonplaats = "Haaksbergen";
-            Console.WriteLine("Ik ben " + fullName + ", " + leeftijd + " jaar " + "en geboren in " + geboorteplaats + ".");
-            Console.Write($"Als {vorigBeroep} werkte ik meer dan 3 jaar in verschillende landen.");
-            Console.Write(" ");
-            Console.Write("Ik woon momenteel in " + woonplaats + ".");
+            Console.WriteLine("Ik ben " + fullName + ", " + leeftijd + " jaar" + "en geboren in " + geboorteplaats + ".");
+            Console.WriteLine($"\n\tAls {vorigBeroep} werkte ik meer dan 3 jaar in verschillende landen.");
+            Console.Write($"\n\t\tIk woon momenteel in {woonplaats}.");
             Console.ReadLine();
         }
     }
