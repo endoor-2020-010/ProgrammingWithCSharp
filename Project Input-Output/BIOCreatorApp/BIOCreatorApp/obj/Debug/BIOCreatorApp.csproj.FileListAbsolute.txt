@@ -1,0 +1,7 @@
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\bin\Debug\BIOCreatorApp.exe.config
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\bin\Debug\BIOCreatorApp.exe
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\bin\Debug\BIOCreatorApp.pdb
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\obj\Debug\BIOCreatorApp.csprojAssemblyReference.cache
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\obj\Debug\BIOCreatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\obj\Debug\BIOCreatorApp.exe
+C:\Users\Endoo\source\repos\BIOCreatorApp\BIOCreatorApp\obj\Debug\BIOCreatorApp.pdb
